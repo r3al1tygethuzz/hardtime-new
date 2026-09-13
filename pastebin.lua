@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/JDeRgUe3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/r3al1tygethuzz/hardtime-new/refs/heads/main/main.lua"))()
