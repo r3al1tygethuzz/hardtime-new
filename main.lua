@@ -70,7 +70,7 @@ local KEYS_URL =
     "https://raw.githubusercontent.com/r3al1tygethuzz/hard-time/main/keys.lua"
 
 local MAIN_URL =
-    "https://pastebin.com/raw/rUeSAvYg"
+    "https://raw.githubusercontent.com/r3al1tygethuzz/ht-autofarm/refs/heads/main/load.lua"
 
 --//==================================================
 --// PREVENT DUPLICATE GUIs
